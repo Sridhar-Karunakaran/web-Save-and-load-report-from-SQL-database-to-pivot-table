@@ -1,11 +1,10 @@
 # Pivot Table Report Manager: Save & Load Reports from SQL Server Database
 
 > **Multi-Platform Pivot Table Report Persistence Solution**
-> 
-> [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-> [![Platforms Supported](https://img.shields.io/badge/platforms-8-blue)]()
-> [![.NET Version](https://img.shields.io/badge/.NET-6.0%2B-blue)]()
 
+[![Platforms Supported](https://img.shields.io/badge/platforms-8-blue)]()
+[![.NET Version](https://img.shields.io/badge/.NET-6.0%2B-blue)]()
+[![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-Latest-0078D4.svg)](https://www.syncfusion.com/)
 ## Overview
 
 **Pivot Table Report Manager** is a comprehensive, production-ready solution for persisting pivot table configurations and reports to SQL Server databases. This repository demonstrates how to seamlessly save, load, update, and manage pivot table reports across multiple frontend frameworks (Angular, React, Vue, TypeScript, JavaScript) with a robust ASP.NET Core backend API.
@@ -1543,7 +1542,7 @@ This project is licensed under the **Syncfusion Community License**. See [Syncfu
 
 ## 📚 Resources
 
-- [Syncfusion javascript Documentation](https://ej2.syncfusion.com/javascript/documentation/introduction)
+- [Syncfusion Javascript Documentation](https://ej2.syncfusion.com/javascript/documentation/introduction)
 - [Pivot Table Component Guide](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started)
 
 ## 🆘 Support
