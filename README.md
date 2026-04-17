@@ -1533,182 +1533,24 @@ chore: Update dependencies
 4. **Reference related issues**: "Fixes #123"
 5. **Wait for review**: Maintainers will provide feedback
 
-## 📖 Documentation & Resources
+## 🤝 Contributing
 
-### Full Documentation
-- **API Swagger Docs**: `https://localhost:44313/swagger`
-- **Syncfusion Pivot Table**: [Documentation](https://www.syncfusion.com/javascript-ui-controls/js-pivot-table)
-- **ASP.NET Core Docs**: [Microsoft Docs](https://docs.microsoft.com/aspnet/core/)
-- **Angular Docs**: [Angular.io](https://angular.io/docs)
-- **React Docs**: [React.dev](https://react.dev)
+Contributions are welcome! Please read our contributing guidelines and submit pull requests to our repository.
 
-### API Documentation
+## 📄 License
 
-**Base URL**: `https://localhost:44313/Pivot`
+This project is licensed under the **Syncfusion Community License**. See [Syncfusion License](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf) for details.
 
-All requests use JSON format with `POST` method.
+## 📚 Resources
 
-| Endpoint | Purpose | Auth |
-|----------|---------|------|
-| `/SaveReport` | Create/Update report | Optional |
-| `/LoadReport` | Retrieve report | Optional |
-| `/FetchReport` | List all reports | Optional |
-| `/RemoveReport` | Delete report | Optional |
-| `/RenameReport` | Rename report | Optional |
+- [Syncfusion javascript Documentation](https://ej2.syncfusion.com/javascript/documentation/introduction)
+- [Pivot Table Component Guide](https://ej2.syncfusion.com/javascript/documentation/pivotview/getting-started)
 
-### Tutorial Links
+## 🆘 Support
 
-1. **Getting Started**: See "Quick Start" section above
-2. **Backend Setup**: Section "Installation & Setup"
-3. **Frontend Integration**: Check your framework in section "Setup Frontend"
-4. **API Integration**: See "Features Deep Dive" section
-
-### Blog Posts & Case Studies
-
-- Coming soon: Best practices for pivot table design
-- Coming soon: Scaling reports to enterprise systems
-- Coming soon: Security hardening guide
-
-### Community Resources
-
-- [Syncfusion Community Forums](https://www.syncfusion.com/forums/)
-- [Stack Overflow - Syncfusion Tag](https://stackoverflow.com/questions/tagged/syncfusion)
-- [GitHub Discussions](https://github.com/SyncfusionExamples/)
-
-## 🔗 Related Projects & Ecosystem
-
-### Similar Projects
-
-| Project | Use Case | Comparison |
-|---------|----------|-----------|
-| **Tableau Server** | Enterprise BI | More complex, commercial |
-| **Power BI** | Microsoft Ecosystem | Better with Office 365 |
-| **Grafana** | Monitoring/Dashboards | Time-series focused |
-| **Metabase** | Quick Analytics | Self-contained, limited customization |
-
-### Complementary Projects
-
-- **Syncfusion GridView**: For tabular data display
-- **Syncfusion Charts**: For data visualization
-- **Syncfusion Dashboard**: Complete BI solution
-- **Entity Framework Core**: ORM alternative to raw SQL
-
-### Ecosystem Integrations
-
-- **Azure SQL Database**: Replace LocalDB for cloud
-- **Azure App Service**: Host backend in cloud
-- **AWS RDS**: Alternative cloud SQL hosting
-- **Docker Containers**: Containerize backend service
-- **Kubernetes**: Orchestrate multi-instance deployments
-
-## ⚖️ License & Legal
-
-### License
-
-This repository is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
-
-**MIT License Summary**:
-- ✅ You can use this code for commercial projects
-- ✅ You can modify the code
-- ✅ You can distribute the code
-- ❌ You cannot hold author liable for issues
-- ⚠️ You must include license notice
-
-### Copyright Information
-
-**Copyright © 2024 Syncfusion, Inc.**
-
-All rights reserved. Syncfusion Pivot Table is a registered trademark of Syncfusion, Inc.
-
-### Attribution Requirements
-
-When using this project, please include:
-
-```
-This project uses Syncfusion components.
-Copyright © Syncfusion, Inc. All rights reserved.
-```
-
-### License Exceptions
-
-- **Syncfusion Libraries**: Subject to Syncfusion's license terms
-- **Open Source Dependencies**: Each maintained under their respective licenses
-- **SQL Server LocalDB**: Free for development (not for production without license)
-
-## 💬 Support & Community
-
-### Issue Reporting Guidelines
-
-When reporting issues, include:
-
-1. **Environment Information**
-   ```
-   OS: Windows 10/macOS/Linux
-   Browser: Chrome 120
-   .NET SDK: 6.0.x
-   Node.js: 18.x
-   ```
-
-2. **Steps to Reproduce**
-   ```
-   1. Clone the repository
-   2. Run backend with [command]
-   3. Open frontend at [url]
-   4. Error occurs when [action]
-   ```
-
-3. **Expected vs Actual Behavior**
-   - Expected: Report should save
-   - Actual: Console shows 404 error
-
-4. **Error Messages**
-   ```
-   Full stack trace and console output
-   ```
-
-### Discussion Forums
-
-- **GitHub Issues**: Bug reports and feature requests
-- **GitHub Discussions**: General questions and ideas
-- **Syncfusion Forums**: Pivot table component questions
-
-### Chat Channels
-
-- **Discord**: [Join Community](https://discord.gg/syncfusion)
-- **Slack**: [@Syncfusion on Twitter](https://twitter.com/Syncfusion)
-
-### Commercial Support Options
-
-- **Syncfusion Support**: [Premium Support Plan](https://www.syncfusion.com/support/)
-- **Paid Consulting**: Available upon request
-- **Custom Development**: Syncfusion can develop custom features
-
-### Response Time Expectations
-
-- **Community Issues**: 3-5 business days
-- **Premium Support**: 24 hours
-- **Critical Bugs**: Next business day
-
----
-
-## 🎓 Learning Path
-
-### Beginner
-1. Clone and run the project locally
-2. Understand database schema
-3. Make your first API call
-4. Create a basic report
-
-### Intermediate
-1. Customize frontend UI
-2. Add authentication to API
-3. Implement validation
-4. Deploy to cloud
-
-### Advanced
-1. Implement caching strategies
-2. Add report versioning
-3. Scale to multiple servers
-4. Implement audit logging
+For issues, questions, or suggestions:
+- 📧 Open an issue on GitHub
+- 💬 Check existing documentation
+- 🌐 Visit Syncfusion support forums
 
 ---
