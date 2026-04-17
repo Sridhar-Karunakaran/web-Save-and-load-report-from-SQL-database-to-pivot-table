@@ -2,6 +2,7 @@
 
 > **Multi-Platform Pivot Table Report Persistence Solution**
 
+[![License](https://img.shields.io/badge/license-SEE%20LICENSE-blue.svg)](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf)
 [![Platforms Supported](https://img.shields.io/badge/platforms-8-blue)]()
 [![.NET Version](https://img.shields.io/badge/.NET-6.0%2B-blue)]()
 [![Syncfusion EJ2](https://img.shields.io/badge/Syncfusion%20EJ2-Latest-0078D4.svg)](https://www.syncfusion.com/)
