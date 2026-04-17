@@ -1552,5 +1552,3 @@ For issues, questions, or suggestions:
 - 📧 Open an issue on GitHub
 - 💬 Check existing documentation
 - 🌐 Visit Syncfusion support forums
-
----
